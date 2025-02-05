@@ -1,4 +1,4 @@
-import { BufferGeometry, Group, InstancedMesh, Material, Mesh, Object3D, Scene, Vector3 } from "three";
+import { BufferGeometry, Group, InstancedMesh, Material, Mesh, Object3D, Scene, Vector3 } from '../../../build/three.module.js';
 
 export function createMeshesFromInstancedMesh(instancedMesh: InstancedMesh): Group;
 export function createMultiMaterialObject(geometry: BufferGeometry, materials: Material[]): Group;

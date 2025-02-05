@@ -1,4 +1,4 @@
-import { DataTexture, Loader, LoadingManager, RGBAFormat, TextureDataType } from "three";
+import { DataTexture, Loader, LoadingManager, RGBAFormat, TextureDataType } from '../../../build/three.module.js';
 
 interface UltraHDRLoaderTextureData {
     width: number;

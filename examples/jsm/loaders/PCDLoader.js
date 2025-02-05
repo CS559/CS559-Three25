@@ -8,7 +8,7 @@ import {
 	Points,
 	PointsMaterial,
 	SRGBColorSpace
-} from 'three';
+} from '../../../build/three.module.js';
 
 class PCDLoader extends Loader {
 

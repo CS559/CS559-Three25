@@ -1,4 +1,4 @@
-import { Curve, Vector3 } from "three";
+import { Curve, Vector3 } from '../../../build/three.module.js';
 
 export class GrannyKnot extends Curve<Vector3> {
     constructor();

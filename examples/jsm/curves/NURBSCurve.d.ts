@@ -1,4 +1,4 @@
-import { Curve, CurveJSON, Vector2, Vector3, Vector4 } from "three";
+import { Curve, CurveJSON, Vector2, Vector3, Vector4 } from '../../../build/three.module.js';
 
 export interface NURBSCurveJSON extends CurveJSON {
     degree: number;

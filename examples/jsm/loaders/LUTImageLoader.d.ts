@@ -1,4 +1,4 @@
-import { Data3DTexture, Loader, Texture } from "three";
+import { Data3DTexture, Loader, Texture } from '../../../build/three.module.js';
 
 export interface LUTImageResult {
     size: number;

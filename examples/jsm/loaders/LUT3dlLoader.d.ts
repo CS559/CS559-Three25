@@ -1,4 +1,4 @@
-import { Data3DTexture, FloatType, Loader, LoadingManager, UnsignedByteType } from "three";
+import { Data3DTexture, FloatType, Loader, LoadingManager, UnsignedByteType } from '../../../build/three.module.js';
 
 export interface LUT3dlResult {
     size: number;

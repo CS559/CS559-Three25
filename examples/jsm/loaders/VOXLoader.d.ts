@@ -1,4 +1,4 @@
-import { Data3DTexture, Loader, LoadingManager, Mesh } from "three";
+import { Data3DTexture, Loader, LoadingManager, Mesh } from '../../../build/three.module.js';
 
 export interface Chunk {
     palette: number[];

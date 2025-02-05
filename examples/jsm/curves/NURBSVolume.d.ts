@@ -1,4 +1,4 @@
-import { Vector3, Vector4 } from "three";
+import { Vector3, Vector4 } from '../../../build/three.module.js';
 
 export class NURBSVolume {
     degree1: number;

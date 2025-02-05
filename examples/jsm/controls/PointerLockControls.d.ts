@@ -1,4 +1,4 @@
-import { Camera, Controls, Vector3 } from "three";
+import { Camera, Controls, Vector3 } from '../../../build/three.module.js';
 
 export interface PointerLockControlsEventMap {
     /**

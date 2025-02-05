@@ -1,4 +1,4 @@
-import { Group, Loader, LoadingManager, Material } from "three";
+import { Group, Loader, LoadingManager, Material } from '../../../build/three.module.js';
 import { LDrawConditionalLineMaterial } from "../materials/LDrawConditionalLineMaterial.js";
 import { LDrawConditionalLineMaterial as LDrawConditionalLineNodeMaterial } from "../materials/LDrawConditionalLineNodeMaterial.js";
 

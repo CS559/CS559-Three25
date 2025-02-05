@@ -1,4 +1,4 @@
-import { LineSegments, Object3D } from "three";
+import { LineSegments, Object3D } from '../../../build/three.module.js';
 
 export class VertexNormalsHelper extends LineSegments {
     readonly isVertexNormalsHelper: true;

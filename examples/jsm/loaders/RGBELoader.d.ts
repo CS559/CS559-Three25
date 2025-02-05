@@ -1,4 +1,4 @@
-import { DataTextureLoader, LoadingManager, PixelFormat, TextureDataType } from "three";
+import { DataTextureLoader, LoadingManager, PixelFormat, TextureDataType } from '../../../build/three.module.js';
 
 export interface RGBE {
     width: number;

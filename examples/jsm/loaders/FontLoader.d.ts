@@ -1,4 +1,4 @@
-import { Loader, LoadingManager, Shape } from "three";
+import { Loader, LoadingManager, Shape } from '../../../build/three.module.js';
 
 export interface FontData {
     glyphs: Record<string, { ha: number; x_min: number; x_max: number; o?: string | undefined }>;

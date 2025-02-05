@@ -1,4 +1,4 @@
-import { Camera, Controls, MOUSE, Object3D, Raycaster, TOUCH } from "three";
+import { Camera, Controls, MOUSE, Object3D, Raycaster, TOUCH } from '../../../build/three.module.js';
 
 export interface DragControlsEventMap {
     /**

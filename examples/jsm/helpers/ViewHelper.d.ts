@@ -1,4 +1,4 @@
-import { Camera, Object3D, Vector3, WebGLRenderer } from "three";
+import { Camera, Object3D, Vector3, WebGLRenderer } from '../../../build/three.module.js';
 
 export class ViewHelper extends Object3D {
     readonly isViewHelper: true;

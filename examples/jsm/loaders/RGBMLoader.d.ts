@@ -1,4 +1,4 @@
-import { CubeTexture, DataTextureLoader, LoadingManager, PixelFormat, TextureDataType } from "three";
+import { CubeTexture, DataTextureLoader, LoadingManager, PixelFormat, TextureDataType } from '../../../build/three.module.js';
 
 export interface RGBM {
     width: number;

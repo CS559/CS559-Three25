@@ -1,4 +1,4 @@
-import { Data3DTexture, FloatType, Loader, LoadingManager, UnsignedByteType, Vector3 } from "three";
+import { Data3DTexture, FloatType, Loader, LoadingManager, UnsignedByteType, Vector3 } from '../../../build/three.module.js';
 
 export interface LUTCubeResult {
     title: string;

@@ -1,4 +1,4 @@
-import { Light, WebGLRenderer } from "three";
+import { Light, WebGLRenderer } from '../../../build/three.module.js';
 
 export interface Size {
     width: number;

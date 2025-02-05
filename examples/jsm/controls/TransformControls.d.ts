@@ -1,4 +1,4 @@
-import { Camera, Controls, Mesh, Object3D, Quaternion, Raycaster, Vector3 } from "three";
+import { Camera, Controls, Mesh, Object3D, Quaternion, Raycaster, Vector3 } from '../../../build/three.module.js';
 
 export type TransformControlsMode = "translate" | "rotate" | "scale";
 

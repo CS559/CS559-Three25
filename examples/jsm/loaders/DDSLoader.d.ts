@@ -4,7 +4,7 @@ import {
     CompressedTextureMipmap,
     LoadingManager,
     PixelFormat,
-} from "three";
+} from '../../../build/three.module.js';
 
 export interface DDS {
     mipmaps: CompressedTextureMipmap[];

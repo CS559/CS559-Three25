@@ -1,4 +1,4 @@
-import { BufferGeometry, Loader, LoadingManager, Points, PointsMaterial } from "three";
+import { BufferGeometry, Loader, LoadingManager, Points, PointsMaterial } from '../../../build/three.module.js';
 
 export class PCDLoader extends Loader<Points<BufferGeometry, PointsMaterial>> {
     constructor(manager?: LoadingManager);

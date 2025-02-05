@@ -1,4 +1,4 @@
-import { Group, Loader, Object3D } from "three";
+import { Group, Loader, Object3D } from '../../../build/three.module.js';
 
 import { GLTF } from "../loaders/GLTFLoader.js";
 import { XRHandMeshModel } from "./XRHandMeshModel.js";

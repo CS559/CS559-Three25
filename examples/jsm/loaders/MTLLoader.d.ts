@@ -1,4 +1,4 @@
-import { BufferGeometry, Loader, LoadingManager, Mapping, Material, Side, Texture, Vector2, Wrapping } from "three";
+import { BufferGeometry, Loader, LoadingManager, Mapping, Material, Side, Texture, Vector2, Wrapping } from '../../../build/three.module.js';
 
 export interface MaterialCreatorOptions {
     /**

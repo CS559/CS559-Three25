@@ -1,4 +1,4 @@
-import { BufferGeometry, Mesh } from "three";
+import { BufferGeometry, Mesh } from '../../../build/three.module.js';
 
 /**
  * Make the input geometry's normal attribute encoded and compressed by 3 different methods.

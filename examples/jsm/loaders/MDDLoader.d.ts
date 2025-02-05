@@ -1,4 +1,4 @@
-import { AnimationClip, BufferAttribute, Loader, LoadingManager } from "three";
+import { AnimationClip, BufferAttribute, Loader, LoadingManager } from '../../../build/three.module.js';
 
 export interface MDD {
     morphTargets: BufferAttribute[];

@@ -8,7 +8,7 @@ import {
     Mesh,
     Points,
     TrianglesDrawModes,
-} from "three";
+} from '../../../build/three.module.js';
 
 export function deepCloneAttribute(attribute: BufferAttribute): BufferAttribute;
 export function mergeGeometries(geometries: BufferGeometry[], useGroups?: boolean): BufferGeometry;

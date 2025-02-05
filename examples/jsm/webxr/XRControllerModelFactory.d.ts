@@ -1,4 +1,4 @@
-import { Group, Loader, Object3D, Texture } from "three";
+import { Group, Loader, Object3D, Texture } from '../../../build/three.module.js';
 import { GLTF } from "../loaders/GLTFLoader.js";
 
 export class XRControllerModel extends Object3D {

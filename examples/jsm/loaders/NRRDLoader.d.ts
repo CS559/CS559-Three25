@@ -1,4 +1,4 @@
-import { Loader, LoadingManager } from "three";
+import { Loader, LoadingManager } from '../../../build/three.module.js';
 
 import { Volume } from "../misc/Volume.js";
 

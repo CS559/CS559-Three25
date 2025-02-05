@@ -1,4 +1,4 @@
-import { DataTextureLoader, LoadingManager, TextureFilter } from "three";
+import { DataTextureLoader, LoadingManager, TextureFilter } from '../../../build/three.module.js';
 
 export interface TIFFResult {
     width: number;

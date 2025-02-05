@@ -1,4 +1,4 @@
-import { CompressedPixelFormat, CompressedTextureLoader, CompressedTextureMipmap, LoadingManager } from "three";
+import { CompressedPixelFormat, CompressedTextureLoader, CompressedTextureMipmap, LoadingManager } from '../../../build/three.module.js';
 
 export interface PVR {
     mipmaps: CompressedTextureMipmap[];

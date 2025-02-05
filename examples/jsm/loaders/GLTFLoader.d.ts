@@ -17,7 +17,7 @@ import {
     SkinnedMesh,
     Texture,
     TextureLoader,
-} from "three";
+} from '../../../build/three.module.js';
 
 import { MeshoptDecoder } from "../libs/meshopt_decoder.module.js";
 import { DRACOLoader } from "./DRACOLoader.js";

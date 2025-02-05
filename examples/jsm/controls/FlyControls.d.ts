@@ -1,4 +1,4 @@
-import { Camera, Controls } from "three";
+import { Camera, Controls } from '../../../build/three.module.js';
 
 export interface FlyControlsEventMap {
     /**
